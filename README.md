@@ -25,7 +25,7 @@ I'm actively seeking opportunities to apply these skills through hands-on projec
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,python,bash" />
+<img src="https://skillicons.dev/icons?i=c,python,bash,java" />
 </p>
 
 ### Cloud & DevOps
